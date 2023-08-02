@@ -2,6 +2,8 @@
 
 Welcome to the MyBookList App repository! This project is a web application built using React, JavaScript, and Material-UI, aimed at creating and managing a reading list of books. The app leverages the Google Books API to allow users to search for books, add them to their list, and organize them using various tags. The application is also backed by a database (backend technology to be determined, likely using Supabase) to provide data persistence and storage.
 
+The project can be found here: https://mybooklist-project.netlify.app/
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -9,8 +11,6 @@ Welcome to the MyBookList App repository! This project is a web application buil
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Test Driven Development (TDD)](#test-driven-development-tdd)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
